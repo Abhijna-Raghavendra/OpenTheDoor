@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "542813372992",
+    "project_id": "quadsquad-511eb",
+    "storage_bucket": "quadsquad-511eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542813372992:android:b25ead9da893feceb595a5",
+        "android_client_info": {
+          "package_name": "com.example.quadsquad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542813372992-052vkbh4h1likjom6c266bscodgnd49t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quadsquad",
+            "certificate_hash": "bbb5ec3a24e5385e4075693a24e49ee9b3c442b8"
+          }
+        },
+        {
+          "client_id": "542813372992-rqqtknf6grbao3jvj2uu0bgbt11qifsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_2FI_69guKTa0Jc88IXf6kuSW-mlROos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542813372992-rqqtknf6grbao3jvj2uu0bgbt11qifsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
